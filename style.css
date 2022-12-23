@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    position: relative;
+    left: 15vw;
+    bottom: 5vh;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+    color: rgb(121, 115, 115);
+    font-size: 17px
+}
+
+h4{
+    font-size: 23px;
+    margin-bottom: 2vh;
+    margin-top: 2vh;
+}
+
+p{
+    margin-bottom: 1.5vh;
+}
+
+.content>div{
+    float: left;
+    margin-left: 11vw;
+}
+
+footer{
+    position: relative;
+    top: 7vh;
+    clear: both;
+    text-align: center;
+    
+}
+
+.footer{
+    position: relative;
+    top: 37vh;
+}
+
+
+.ajay{
+    position: relative;
+    top: 20px;
+}
+
